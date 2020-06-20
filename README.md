@@ -2,7 +2,7 @@
 
 Como corrigir a sua lista:
 
-* Salve o seu arquivo como lista05.py;
+* Salve o seu arquivo como provaP2.py;
 * Faça download do arquivo corrige.py;
 * Crie um arquivo main.py com o seguinte conteúdo:
   * import corrige
