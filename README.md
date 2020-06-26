@@ -1,4 +1,4 @@
-# ExerciciosDiversosPython
+# Exercicios Diversos Python
 
 Como corrigir a sua lista:
 
